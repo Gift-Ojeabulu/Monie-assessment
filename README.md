@@ -1,8 +1,8 @@
 # From Prompt to Playlist: The Engineering Behind AI Playlist
 
-**TL;DR** — Company XY shipped a feature that turns "songs for a rainy Sunday morning that slowly wake me up" into a personalised playlist in under two seconds, for millions of listeners. The surprising decision at its core: the LLM is never allowed to name a song. This repo holds the full engineering story from my interviews with the team, the plan I'd use to put it in front of engineers worldwide, the same story reshaped per platform, and the dashboard that tells leadership whether it worked.
+**TL;DR** Company XY shipped a feature that turns "songs for a rainy Sunday morning that slowly wake me up" into a personalised playlist in under two seconds, for millions of listeners. The surprising decision at its core: the LLM is never allowed to name a song. This repo holds the full engineering story from my interviews with the team, the plan I'd use to put it in front of engineers worldwide, the same story reshaped per platform, and the dashboard that tells leadership whether it worked.
 
-**Author:** [Your Name] · Engineering Relations Specialist assessment
+**Author:** [Gift Ojeabulu] · assessment
 
 ---
 
