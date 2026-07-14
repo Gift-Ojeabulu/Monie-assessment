@@ -566,7 +566,3 @@ The brief asked me to make and flag reasonable assumptions. Collected here:
 7. **Named engineers.** The brief says to assume the interviews happened, so the engineers quoted (Adeyemi, Raman, Balogun) are composites named for readability. Every claim they voice is a real engineering position I'd defend.
 
 None of these change the shape of the story. The narrative rests on the patterns, which are real, not the precise figures, which are illustrative.
-
----
-
-*If you'd like to argue with any of this, the issues tab is open. That's rather the point.*
